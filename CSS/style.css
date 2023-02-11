@@ -1,0 +1,8 @@
+body {
+    background-color:rgb(228, 226, 226);
+}
+h1 {
+    color: navy;
+    font-weight: bolder;
+    text-shadow: rgb(228, 71, 71) 1px 0 10px;
+}
